@@ -1,7 +1,7 @@
 Hi, I am Suyog Adhikari.
-I am just a beginner developer/student.
+I am a beginner developer/student.
 Currently i am trying to learn ReactJS.
-My hobby is to play online video games, and code.
+My hobbies are playing videos games, coding and graphic designing.
 </>
 
 <!---
