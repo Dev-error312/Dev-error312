@@ -1,7 +1,4 @@
 Hi, I am Suyog Adhikari.
-I am a beginner developer/student.
-Currently i am trying to learn ReactJS.
-My hobbies are playing videos games, coding and graphic designing.
 </>
 
 <!---
